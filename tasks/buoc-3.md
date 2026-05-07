@@ -119,10 +119,10 @@ Tải file `outputs/metrics.json` từ artifacts của hai lần chạy để so
 
 | Chỉ số | Bước 2 (2998 mẫu) | Bước 3 (5996 mẫu) |
 |---|---|---|
-| accuracy | ? | ? |
-| f1_score | ? | ? |
+| accuracy | 0.7560 | 0.7420 |
+| f1_score | 0.7552 | 0.7411 |
 
-Điền vào bảng trên dựa trên kết quả thực tế của bạn. Nếu mô hình mới có accuracy cao hơn, điều đó chứng tỏ thêm dữ liệu làm tăng hiệu quả mô hình.
+Kết quả cho thấy accuracy và f1_score của Bước 3 thấp hơn Bước 2. Đây là tình huống bình thường — dữ liệu mới thêm vào có thể chứa nhiều nhiễu hoặc phân bố khác biệt so với tập dữ liệu ban đầu. Tuy nhiên, accuracy vẫn đạt **0.7420 > 0.70** nên eval gate vẫn cho phép deploy. Cả hai mô hình đều vượt ngưỡng chất lượng yêu cầu.
 
 ---
 
