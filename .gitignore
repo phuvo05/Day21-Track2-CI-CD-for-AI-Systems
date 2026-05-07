@@ -1,6 +1,7 @@
 # MLflow
 mlflow.db
 mlartifacts/
+mlruns/
 models/
 outputs/
 
