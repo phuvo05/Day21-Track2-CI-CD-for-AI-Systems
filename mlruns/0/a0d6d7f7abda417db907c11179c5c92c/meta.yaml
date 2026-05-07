@@ -1,0 +1,14 @@
+artifact_uri: file:///E:/VinAI/Day21-Track2-CI-CD-for-AI-Systems/mlruns/0/a0d6d7f7abda417db907c11179c5c92c/artifacts
+end_time: 1778131241376
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a0d6d7f7abda417db907c11179c5c92c
+run_name: selective-gnat-519
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778131232999
+status: 3
+tags: []
+user_id: phu

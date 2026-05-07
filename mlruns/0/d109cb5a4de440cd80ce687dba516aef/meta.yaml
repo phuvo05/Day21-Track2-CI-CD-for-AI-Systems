@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/VinAI/Day21-Track2-CI-CD-for-AI-Systems/mlruns/0/d109cb5a4de440cd80ce687dba516aef/artifacts
+end_time: 1778138932821
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d109cb5a4de440cd80ce687dba516aef
+run_name: dazzling-ox-611
+run_uuid: d109cb5a4de440cd80ce687dba516aef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778138932733
+status: 4
+tags: []
+user_id: phu

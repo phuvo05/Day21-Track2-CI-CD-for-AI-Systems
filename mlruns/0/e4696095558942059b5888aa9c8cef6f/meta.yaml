@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/VinAI/Day21-Track2-CI-CD-for-AI-Systems/mlruns/0/e4696095558942059b5888aa9c8cef6f/artifacts
+end_time: 1778140092085
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e4696095558942059b5888aa9c8cef6f
+run_name: abrasive-fawn-928
+run_uuid: e4696095558942059b5888aa9c8cef6f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778140089536
+status: 3
+tags: []
+user_id: phu

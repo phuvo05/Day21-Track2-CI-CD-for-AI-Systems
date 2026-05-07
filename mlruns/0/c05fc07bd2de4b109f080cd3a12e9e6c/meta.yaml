@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/VinAI/Day21-Track2-CI-CD-for-AI-Systems/mlruns/0/c05fc07bd2de4b109f080cd3a12e9e6c/artifacts
+end_time: 1778121448077
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c05fc07bd2de4b109f080cd3a12e9e6c
+run_name: omniscient-toad-789
+run_uuid: c05fc07bd2de4b109f080cd3a12e9e6c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778121443609
+status: 3
+tags: []
+user_id: phu

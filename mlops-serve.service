@@ -1,0 +1,16 @@
+[Unit]
+Description=MLOps Wine Quality Prediction API
+After=network.target
+
+[Service]
+Type=simple
+User=github-actions
+WorkingDirectory=/home/github-actions
+Environment="GOOGLE_APPLICATION_CREDENTIALS=/home/github-actions/sa-key.json"
+Environment="GCS_BUCKET=lab12-495603-bucket"
+ExecStart=/usr/bin/python3 /home/github-actions/serve.py
+Restart=always
+RestartSec=5
+
+[Install]
+WantedBy=multi-user.target

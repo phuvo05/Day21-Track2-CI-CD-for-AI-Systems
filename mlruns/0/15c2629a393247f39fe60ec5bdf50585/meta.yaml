@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/VinAI/Day21-Track2-CI-CD-for-AI-Systems/mlruns/0/15c2629a393247f39fe60ec5bdf50585/artifacts
+end_time: 1778142221634
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 15c2629a393247f39fe60ec5bdf50585
+run_name: enchanting-bug-325
+run_uuid: 15c2629a393247f39fe60ec5bdf50585
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778142218467
+status: 3
+tags: []
+user_id: phu

@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/VinAI/Day21-Track2-CI-CD-for-AI-Systems/mlruns/0/e1f231470d294804b4df4f16eed641fe/artifacts
+end_time: 1778139686545
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e1f231470d294804b4df4f16eed641fe
+run_name: glamorous-shrimp-86
+run_uuid: e1f231470d294804b4df4f16eed641fe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778139686468
+status: 4
+tags: []
+user_id: phu

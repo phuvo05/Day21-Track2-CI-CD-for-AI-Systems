@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/VinAI/Day21-Track2-CI-CD-for-AI-Systems/mlruns/0/cc2dbfb54a1b49fdaf568c484b8132f1/artifacts
+end_time: 1778142264108
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cc2dbfb54a1b49fdaf568c484b8132f1
+run_name: languid-moth-285
+run_uuid: cc2dbfb54a1b49fdaf568c484b8132f1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778142258094
+status: 3
+tags: []
+user_id: phu

@@ -1,0 +1,14 @@
+artifact_uri: file:///E:/VinAI/Day21-Track2-CI-CD-for-AI-Systems/mlruns/0/f4c61375b8104111a8a6e7c068196a3a/artifacts
+end_time: 1778130991845
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f4c61375b8104111a8a6e7c068196a3a
+run_name: fun-fish-231
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778130981242
+status: 3
+tags: []
+user_id: phu

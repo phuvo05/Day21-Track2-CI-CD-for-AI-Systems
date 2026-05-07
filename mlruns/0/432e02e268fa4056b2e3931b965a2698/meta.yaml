@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/VinAI/Day21-Track2-CI-CD-for-AI-Systems/mlruns/0/432e02e268fa4056b2e3931b965a2698/artifacts
+end_time: 1778139686096
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 432e02e268fa4056b2e3931b965a2698
+run_name: tasteful-newt-671
+run_uuid: 432e02e268fa4056b2e3931b965a2698
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778139686010
+status: 4
+tags: []
+user_id: phu

@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/VinAI/Day21-Track2-CI-CD-for-AI-Systems/mlruns/0/6d15fc20a20042a78ecfb3ceb3f2c392/artifacts
+end_time: 1778122320046
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6d15fc20a20042a78ecfb3ceb3f2c392
+run_name: indecisive-whale-101
+run_uuid: 6d15fc20a20042a78ecfb3ceb3f2c392
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778122316990
+status: 3
+tags: []
+user_id: phu

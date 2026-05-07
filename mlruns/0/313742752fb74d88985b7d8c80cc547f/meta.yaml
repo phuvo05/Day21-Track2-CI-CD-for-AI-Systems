@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/VinAI/Day21-Track2-CI-CD-for-AI-Systems/mlruns/0/313742752fb74d88985b7d8c80cc547f/artifacts
+end_time: 1778131158339
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 313742752fb74d88985b7d8c80cc547f
+run_name: brawny-rook-348
+run_uuid: 313742752fb74d88985b7d8c80cc547f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778131142693
+status: 3
+tags: []
+user_id: phu

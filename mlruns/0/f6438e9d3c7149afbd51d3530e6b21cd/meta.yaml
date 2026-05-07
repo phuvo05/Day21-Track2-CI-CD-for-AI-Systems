@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/VinAI/Day21-Track2-CI-CD-for-AI-Systems/mlruns/0/f6438e9d3c7149afbd51d3530e6b21cd/artifacts
+end_time: 1778140252373
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f6438e9d3c7149afbd51d3530e6b21cd
+run_name: nosy-crane-343
+run_uuid: f6438e9d3c7149afbd51d3530e6b21cd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778140249634
+status: 3
+tags: []
+user_id: phu

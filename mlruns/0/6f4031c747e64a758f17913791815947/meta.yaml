@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/VinAI/Day21-Track2-CI-CD-for-AI-Systems/mlruns/0/6f4031c747e64a758f17913791815947/artifacts
+end_time: 1778142224251
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6f4031c747e64a758f17913791815947
+run_name: grandiose-jay-945
+run_uuid: 6f4031c747e64a758f17913791815947
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778142221701
+status: 3
+tags: []
+user_id: phu

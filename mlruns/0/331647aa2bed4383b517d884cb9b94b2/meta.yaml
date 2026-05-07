@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/VinAI/Day21-Track2-CI-CD-for-AI-Systems/mlruns/0/331647aa2bed4383b517d884cb9b94b2/artifacts
+end_time: 1778122280582
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 331647aa2bed4383b517d884cb9b94b2
+run_name: treasured-croc-725
+run_uuid: 331647aa2bed4383b517d884cb9b94b2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778122276662
+status: 3
+tags: []
+user_id: phu

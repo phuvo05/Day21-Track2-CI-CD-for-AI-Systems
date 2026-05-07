@@ -1,0 +1,14 @@
+artifact_uri: file:///E:/VinAI/Day21-Track2-CI-CD-for-AI-Systems/mlruns/0/56a072fd9a1344128c83f57c922289f1/artifacts
+end_time: 1778131015248
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 56a072fd9a1344128c83f57c922289f1
+run_name: bold-midge-914
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778131003403
+status: 3
+tags: []
+user_id: phu
