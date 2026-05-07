@@ -45,6 +45,8 @@ jobs:
     name: Train
     needs: test
     runs-on: ubuntu-latest
+    env:
+      CLOUD_BUCKET: ${{ secrets.CLOUD_BUCKET }}
     outputs:
       accuracy: ${{ steps.read_metrics.outputs.accuracy }}
 
