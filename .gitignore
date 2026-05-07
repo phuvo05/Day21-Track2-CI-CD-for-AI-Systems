@@ -1,13 +1,40 @@
+# MLflow
 mlflow.db
 mlartifacts/
 models/
 outputs/
+
+# Data (download at runtime from GCS)
 data/train_phase1.csv
 data/eval.csv
 data/train_phase2.csv
+
+# Credentials
 sa-key.json
 .env
+
+# Python
 .venv/
 __pycache__/
 *.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Editors
 .DS_Store
+.vscode/
+.idea/
+
+# Linting / Type checking
+.ruff_cache/
+.mypy_cache/
